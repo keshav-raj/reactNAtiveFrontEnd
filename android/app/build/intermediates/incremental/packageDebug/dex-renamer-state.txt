@@ -1,0 +1,4 @@
+#Thu Jul 19 20:00:13 IST 2018
+base.0=F\:\\LSAPPLICATION\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\LSAPPLICATION\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
